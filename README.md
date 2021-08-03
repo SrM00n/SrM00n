@@ -1,6 +1,6 @@
 - Olá, sou o Sr. moon
 - estudo programação
-- estudo sh e pretendo estudar C-- e Assembly
+- estudo sh e pretendo estudar C++ e Assembly
 
 
 
